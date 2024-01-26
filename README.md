@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/748510438.svg)](https://zenodo.org/doi/10.5281/zenodo.10570634)
 # Cross-landscape HOR clustering analysis
 
 `find_pattern.py`is the main workflow of the clustering analysis.
